@@ -1,4 +1,12 @@
-# LIVE Day Trading Series
+# S&P 500 trading -- Michael Chin
+
+## REVIEW - frankg
+
+2020-07-06 19:04:19
+
+It's nice to see people trading live. It's much better than reading about it. He does a great job of explaining key tips and lays out his strategy. As you can see he has been very successful with it. On the downside he does not tell his win/loss percentage. He says he tries to make 95+ percent trades but what is the reality. Either way this is a very good series to watch, if for nothing else some key gold nuggets in there.
+
+## THE COURSE
 
 1. [Learn Day Trading - LIVE Scalping S&P 500 Futures][1]
 2. [Spotting LIVE Trading Trend Reversals | Live Scalping 002][2]
@@ -31,4 +39,3 @@
 [13]: https://tinyurl.com/y9xtwum6
 [14]: https://tinyurl.com/y84w2gjf
 [15]: https://tinyurl.com/ydbwzcax
-
