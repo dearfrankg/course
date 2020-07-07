@@ -2,6 +2,12 @@
 
 ## REVIEW - frankg
 
+## PLAYLIST
+
+- [Beginner Guide to Day Trading -- PLAYLIST][playlist]
+
+[playlist]: https://tinyurl.com/y8rq7gok
+
 ## VIDEOS
 
 1. [Webinar #1: How to Trade Penny Stocks Basic Rules][1]
@@ -35,38 +41,36 @@
 1. [How to set up moving average in Moomoo Desktop? | Secret Pattern (Moomoo Trading Tutorial)][30]
 1. [Stock Market Crash Again? | Market Mentality 2020][31]
 1. [Top 3 Screeners for LOW FLOAT Stocks Using Finviz][32]
-1. [How to know when a breakout is happening][33]
 
-[1]: http://foo.com
-[2]: http://foo.com
-[3]: http://foo.com
-[4]: http://foo.com
-[5]: http://foo.com
-[6]: http://foo.com
-[7]: http://foo.com
-[8]: http://foo.com
-[9]: http://foo.com
-[10]: http://foo.com
-[11]: http://foo.com
-[12]: http://foo.com
-[13]: http://foo.com
-[14]: http://foo.com
-[15]: http://foo.com
-[16]: http://foo.com
-[17]: http://foo.com
-[18]: http://foo.com
-[19]: http://foo.com
-[20]: http://foo.com
-[21]: http://foo.com
-[22]: http://foo.com
-[23]: http://foo.com
-[24]: http://foo.com
-[25]: http://foo.com
-[26]: http://foo.com
-[27]: http://foo.com
-[28]: http://foo.com
-[29]: http://foo.com
-[30]: http://foo.com
-[31]: http://foo.com
-[32]: http://foo.com
-[33]: http://foo.com
+[1]: https://tinyurl.com/y6uvshxg
+[2]: https://tinyurl.com/yahnj5sq
+[3]: https://tinyurl.com/y82fnvju
+[4]: https://tinyurl.com/yb4qnqlh
+[5]: https://tinyurl.com/yb9a8oek
+[6]: https://tinyurl.com/y8kajkg3
+[7]: https://tinyurl.com/ya3rzt63
+[8]: https://tinyurl.com/y8bwcu5u
+[9]: https://tinyurl.com/y8tzdq8q
+[10]: https://tinyurl.com/ydecq4j8
+[11]: https://tinyurl.com/y9yqnnmo
+[12]: https://tinyurl.com/y7dj435d
+[13]: https://tinyurl.com/ydf2ppfy
+[14]: https://tinyurl.com/y9mbx6hv
+[15]: https://tinyurl.com/ycp4u8e3
+[16]: https://tinyurl.com/y8tnnshw
+[17]: https://tinyurl.com/ybdm5g3q
+[18]: https://tinyurl.com/ybdm5g3q
+[19]: https://tinyurl.com/ycpp8blq
+[20]: https://tinyurl.com/ybf8bxxj
+[21]: https://tinyurl.com/y7sd2kl5
+[22]: https://tinyurl.com/yb772z3g
+[23]: https://tinyurl.com/y9hl9xjl
+[24]: https://tinyurl.com/yb6v7pa6
+[25]: https://tinyurl.com/y9xnfdkg
+[26]: https://tinyurl.com/y8xn4tr5
+[27]: https://tinyurl.com/y84eurwd
+[28]: https://tinyurl.com/ybjyt9ut
+[29]: https://tinyurl.com/ybh47fjn
+[30]: https://tinyurl.com/ybbzadkd
+[31]: https://tinyurl.com/y7q4c2a3
+[32]: https://tinyurl.com/y9m2kx65
